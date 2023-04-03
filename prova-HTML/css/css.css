@@ -1,0 +1,256 @@
+
+span{
+    color: #666666;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table{
+    border: 1px solid #DDDDDD;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Arial;
+    border: 1px solid color #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    border-collapse: collapse;
+    padding-top: 3px;
+    padding-bottom: 12px;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+
+th {
+    background-color: #F7F7F7;
+    color: #999999;
+    font-size: 13px;
+    font-weight: bold;
+    
+    padding-right: 5px;
+    padding-left: 10px;
+}
+
+td {
+    font-size: 14px;
+    font-weight: normal;
+    color: #666666;
+    border: 1px solid color #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    border-collapse: collapse;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+
+
+
+.posi1{
+    color: #003366;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi2{
+    color: #003366;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi3{
+    color: #003366;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+.posi4{
+    color: #1398BE;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+   
+}
+
+.posi5{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi6{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi7{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi8{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi9{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi10{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi11{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi12{
+    color: #DE9800;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi13{
+    color: #CCCCCC;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi14{
+    color: #CCCCCC;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi15{
+    color: #CCCCCC;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi16{
+    color: #CCCCCC;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi17{
+    color: #C91B04;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi18{
+    color: #C91B04;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi19{
+    color: #C91B04;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.posi20{
+    color: #C91B04;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.time {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+    color: #666666;
+}
+
+.pontos {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    background-color: #CCCCCC;
+    padding-top: 3px;
+    padding-bottom: 2px;
+}
+
+.porcentagem {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #666666;
+    background-color: #CCCCCC;
+}
+
+.legenda {
+    font-size: 10px;
+    font-weight: normal;
+    color: #8F8F8F;
+    text-align: left;
+}
+
+.siglas {
+    font-size: 10px;
+    font-weight: bold;
+    color: #555555;
+    text-align: left;
+}
+
+.significados {
+    font-size: 10px;
+    font-weight: normal;
+    color: #555555;
+    text-align: left;
+}
+
+.GC {
+   
+background-color: #CCCCCC;
+}
+ 
+.D {
+   
+    background-color: #CCCCCC;
+    }
+
+    .V {
+        background-color: #CCCCCC;
+    }
+
+    .linha1 {
+       
+        border: 2px solid color #CCCCCC;
+        border-top: 2px solid #adadad;
+        border-collapse: collapse;
+    }
+
+    .linha2 {
+        border: 2px solid color #CCCCCC;
+        border-top: 2px solid #be8686;
+        border-collapse: collapse;
+    }
